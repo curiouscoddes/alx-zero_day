@@ -1,1 +1,1 @@
-ALX Learning session
+ALX Learning session. Learning from the best
